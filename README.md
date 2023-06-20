@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Bashirinia</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-- 🔭 I’m currently working on **Cloud Based Messenger Application**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **General Purpose Pharmacy Managment Software Using ASP.NET Core & Typescript React**
 
 - 💬 Ask me about **C#, Javascript , Python , PHP , And Everything Related To Programming**
 

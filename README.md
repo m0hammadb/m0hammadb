@@ -1,15 +1,168 @@
-<h1 align="center">Hi 👋, I'm Mohammad Bashirinia</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **General Purpose Pharmacy Managment Software Using ASP.NET Core & Typescript React**
+# Mohammad Bashirinia
 
-- 💬 Ask me about **C#, Javascript , Python , PHP , And Everything Related To Programming**
+### Software Engineer • AI Systems Designer • Security Research Enthusiast
 
-- 📫 How to reach me **mohammadbashirinia777@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Systems.;Breaking+Problems.;Automating+Everything.;Backend+Architecture.;Artificial+Intelligence.;Offensive+Security+Mindset." />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+
+<img src="https://img.shields.io/badge/.NET-Expert-512BD4?style=for-the-badge&logo=dotnet"/>
+<img src="https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=csharp"/>
+<img src="https://img.shields.io/badge/AI-Engineer-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Performance-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Red_Team-Mindset-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+</div>
+
+# About Me
+
+```csharp
+public class Mohammad
+{
+    public int Experience => 15+;
+
+    public string[] Languages =>
+    [
+        "C#",
+        "SQL",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "PHP"
+    ];
+
+    public string[] Interests =>
+    [
+        "Artificial Intelligence",
+        "System Architecture",
+        "Cyber Security",
+        "Performance Optimization",
+        "Distributed Systems",
+        "Automation"
+    ];
+
+    public string CurrentMission =>
+        "Building scalable AI-powered backend systems.";
+}
+```
+
+---
+
+# Tech Arsenal
+
+### Backend
+
+```
+███████████████████████  C#
+██████████████████████   ASP.NET Core
+█████████████████████    EF Core
+█████████████████████    Dapper
+████████████████████     SignalR
+███████████████████      MediatR
+```
+
+### Database
+
+```
+███████████████████████ PostgreSQL
+██████████████████████ SQL Server
+███████████████████ Redis
+```
+
+### AI
+
+- OpenAI
+- Azure/OpenAI Compatible APIs
+- LLM Integration
+- AI Agents
+- Prompt Engineering
+- Voice AI
+- Speech Processing
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+### Infrastructure
+
+- Docker
+- Linux
+- Nginx
+- GitHub Actions
+- CI/CD
+
+---
+
+# Security Mindset
+
+```text
+Think like an attacker.
+Build like a defender.
+```
+
+Interested in
+
+- Secure Software Design
+- Authentication
+- Authorization
+- API Security
+- Penetration Testing Concepts
+- Threat Modeling
+- Reverse Engineering
+- Performance Profiling
+
+---
+
+# Favorite Areas
+
+🧠 Artificial Intelligence
+
+⚡ High Performance APIs
+
+🔒 Security Engineering
+
+🌐 Distributed Systems
+
+🎙️ Real-time Audio Processing
+
+📊 Database Optimization
+
+---
+
+# Current Focus
+
+```diff
++ AI Infrastructure
++ Voice AI
++ Distributed Backend Systems
++ Performance Engineering
++ Secure API Design
+```
+
+---
+
+# Philosophy
+
+> Clean code is good.
+
+> Fast code is better.
+
+> Secure code is mandatory.
+
+---
+
+<div align="center">
+
+## "Code is temporary. Architecture is forever."
+
+</div>
